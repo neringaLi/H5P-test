@@ -2,7 +2,8 @@
 
 namespace EscolaLms\HeadlessH5P\Http\Controllers;
 
-use EscolaLms\Core\Http\Controllers\EscolaLmsBaseController;
+// use EscolaLms\Core\Http\Controllers\EscolaLmsBaseController;
+use EscolaLms\HeadlessH5P\Http\Controllers\EscolaLmsBaseController;
 use EscolaLms\HeadlessH5P\Http\Requests\LibraryDeleteRequest;
 use EscolaLms\HeadlessH5P\Http\Requests\LibraryFilterRequest;
 use EscolaLms\HeadlessH5P\Http\Requests\LibraryInstallRequest;
