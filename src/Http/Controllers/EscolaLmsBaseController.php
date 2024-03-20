@@ -1,6 +1,6 @@
 <?php
 
-namespace EscolaLms\Core\Http\Controllers;
+namespace EscolaLms\HeadlessH5P\Http\Controllers;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Foundation\Auth\Access\AuthorizesRequests;
